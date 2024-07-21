@@ -6,7 +6,7 @@
 
 ## Проекты
 
-### 1. [matrixCPP(Матрицы)](https://github.com/IvanVito/CPP/tree/main/matrixCPP)
+### 1. [matrixCPP (Матрицы)](https://github.com/IvanVito/CPP/tree/main/matrixCPP)
 
 #### Описание
 
@@ -36,7 +36,7 @@
 
 Предоставлены модульные тесты с использованием библиотеки GTest для обеспечения корректности операций с матрицами. Используйте предоставленный Makefile для сборки и запуска тестов.
 
-### 2. [copyContainers(Контейнеры)](https://github.com/IvanVito/CPP/tree/main/copyContainers)
+### 2. [copyContainers (Контейнеры)](https://github.com/IvanVito/CPP/tree/main/copyContainers)
 
 #### Описание
 
