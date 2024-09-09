@@ -80,6 +80,7 @@
 <div align="center">
 
 ![menuCli](images/menuCli.png)
+
 *Терминальное меню*
 
 </div>
@@ -87,6 +88,7 @@
 <div align="center">
 
 ![tetrisCli](images/tetrisCli.png)
+
 *Терминальный интерфейс тетриса*
 
 </div>
@@ -94,6 +96,7 @@
 <div align="center">
 
 ![snakeCli](images/snakeCli.png)
+
 *Терминальный интерфейс змейки*
 
 </div>
@@ -101,6 +104,7 @@
 <div align="center">
 
 ![menuDesktop](images/menuDesktop.png)
+
 *Десктопное меню*
 
 </div>
@@ -108,6 +112,7 @@
 <div align="center">
 
 ![tetrisDesktop](images/tetrisDesktop.png)
+
 *Десктопный интерфейс тетриса*
 
 </div>
@@ -115,6 +120,7 @@
 <div align="center">
 
 ![snakeDesktop](images/snakeDesktop.png)
+
 *Десктопный интерфейс змейки*
 
 </div>
