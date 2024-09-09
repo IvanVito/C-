@@ -195,7 +195,7 @@ install_qt: install_snake install_tetris install_menu
 
 play_qt:
 	chmod 700 /run/user/1000/
-	export QT_QPA_PLATFORM=wayland && ./build/desktop/desktopMenu
+	export QT_QPA_PLATFORM=wayland && sudo ./build/desktop/desktopMenu
 
 install: install_qt install_cli
 
