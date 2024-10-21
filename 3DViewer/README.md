@@ -56,14 +56,6 @@
 
 <div align="center">
 
-![menuCli](images/menuCli.png)
-
-*Терминальное меню*
-
-</div>
-
-<div align="center">
-
 ![ferret](images/ferret.png)
 
 *Загруженная и трансформированная модель хорька*
