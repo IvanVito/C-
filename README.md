@@ -85,8 +85,8 @@
 **Использование:**
 - Для сборки и запуска приложений используйте Makefile:
   - **Установка:** `make install`
-  - **Запуск CLI версии:** `make play_cli`
-  - **Запуск Qt версии:** `make play_qt`
+  - **Запуск терминальной версии:** `make play_cli`
+  - **Запуск десктопной версии:** `make play_qt`
 
 ### 4. [3DViewer(3Д Вьювер)](https://github.com/IvanVito/CPP/tree/main/3DViewer)
 
