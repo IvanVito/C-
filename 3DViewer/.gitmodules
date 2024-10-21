@@ -1,0 +1,6 @@
+[submodule "src/src/gui/gif-h"]
+	path = src/src/gui/gif-h
+	url = https://github.com/charlietangora/gif-h
+[submodule "src/gui/gif-h"]
+	path = src/gui/gif-h
+	url = https://github.com/charlietangora/gif-h
